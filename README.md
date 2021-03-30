@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vaidasss terminator salvation
-- 👀 I’m interested in ...airsoft
-- 🌱 I’m currently learning ... how to fly 
-- 💞️ I’m looking to collaborate on ... something
-- 📫 How to reach me ... reach me thunder, reach me sweet, never let me go. 
+- 👋 Hi, I’m @Vaidasss 
+- 👀 I’m interested in computer stuff, programming and airsoft :)
+- 🌱 I’m currently learning at vtmc.lt
+- 💞️ I’m looking to collaborate on (to be continued)
+- 📫 How to reach me ... reach me thunder, reach me sweet, never let me go. (joking)
 
 <!---
 Vaidasss/Vaidasss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
