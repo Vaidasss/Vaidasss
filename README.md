@@ -2,7 +2,8 @@
 - 👀 I’m interested in computer stuff, programming and airsoft :)
 - 🌱 I’m currently learning at vtmc.lt
 - 💞️ I’m looking to collaborate on (to be continued)
-- 📫 How to reach me ... reach me thunder, reach me sweet, never let me go. (joking)
+- 📫 How to reach me ... kreivi-tinklai.lt
+- 
 
 <!---
 Vaidasss/Vaidasss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
