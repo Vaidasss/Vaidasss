@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaidasss 
 - 👀 I’m interested in computer stuff, programming and airsoft :)
-- 🌱 I’m currently learning at vtmc.lt
-- 💞️ I’m looking to collaborate on (to be continued)
+- 🌱 I’m currently doing nothing and I dont care. 
+- 💞️ I’m looking for other junior programmers
 - 📫 How to reach me ... kreivi-tinklai.lt
 - 
 
