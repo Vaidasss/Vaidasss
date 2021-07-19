@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vaidasss 
-- 👀 I’m interested in computer stuff, programming and airsoft :)
-- 💞️ I’m looking for other novice programmers and system administrators. 
+- 👋 Hi, I’m @Vaidasss, sometimes Chappie...Otherwise I'm Chappie all the time.
+- 👀 I’m interested in computer stuff, arduino, programming and airsoft :)
+- 💞️ I’m looking for other novice programmers and system administrators. It would be fun to meet new friends
 - 📫 How to reach me ... vaidas.sadaunykas@gmail.com
 - 
 
