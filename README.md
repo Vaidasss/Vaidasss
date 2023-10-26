@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer stuff, arduino, programming and airsoft :)
 - 💞️ I’m looking for other novice programmers and system administrators. It would be fun to meet new friends
 - 📫 How to reach me ... vaidas.sadaunykas@gmail.com
-- :) visit my site https://kreivi-tinklai.lt/ 
+- 
 
 <!---
 Vaidasss/Vaidasss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
